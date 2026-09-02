@@ -1,5 +1,6 @@
 # gitflowtop
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -21,6 +22,9 @@ ATUALIZADA
 =======
 Tá dificil
 >>>>>>> 808880c7009fa4bcb5c2c17432a255e3915d2b17
+=======
+Depois de muitas correções em com uma ajuda eu consegui resolver, eu acho!
+>>>>>>> f92a55679bc93fa629d04caf17a52cb6ac1d0bb4
 
 
 >>>>>>> abe18e05280093a9913465e13f36da413bb978ad
