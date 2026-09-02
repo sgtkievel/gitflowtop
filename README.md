@@ -1,4 +1,5 @@
 # gitflowtop
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -17,6 +18,9 @@ ultima
 >>>>>>> 8a9df2b85645b216aab98353b727e572e8c2e4c3
 =======
 ATUALIZADA
+=======
+Tá dificil
+>>>>>>> 808880c7009fa4bcb5c2c17432a255e3915d2b17
 
 
 >>>>>>> abe18e05280093a9913465e13f36da413bb978ad
