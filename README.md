@@ -2,6 +2,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 um teste
 
@@ -14,3 +15,8 @@ teste3
 =======
 ultima
 >>>>>>> 8a9df2b85645b216aab98353b727e572e8c2e4c3
+=======
+ATUALIZADA
+
+
+>>>>>>> abe18e05280093a9913465e13f36da413bb978ad
