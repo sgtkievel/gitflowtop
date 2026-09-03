@@ -1,7 +1,15 @@
 *{
+<<<<<<< HEAD
     
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-size: 14px;
+=======
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 12px;
+    font-color: #333;
+>>>>>>> feature-css-base-styling
 }
